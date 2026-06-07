@@ -2,7 +2,7 @@
 
 <img width="120" src="https://jiangbyte.github.io/hei-docs/logo.svg">
 
-**Hei Uniapp** 是 HEI 快速开发框架的跨平台移动端解决方案，基于 UniApp + Vue 3 构建，一套代码可编译到 iOS、Android、H5、以及各类小程序平台。
+**Hei Uniapp** —— UniApp + Vue3 构建的跨平台移动端应用，开箱即用。
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![UniApp](https://img.shields.io/badge/UniApp-3.x-brightgreen.svg)
@@ -10,7 +10,7 @@
 
 ## 简介
 
-Hei Uniapp 提供开箱即用的跨平台移动端开发解决方案，与 Hei Boot 后端框架配套使用，支持快速搭建移动端应用。项目采用 uni-app 生态，支持一套代码多端运行，覆盖 iOS、Android、H5、微信小程序、支付宝小程序等主流平台。
+Hei Uniapp 提供开箱即用的跨平台移动端开发，与 Hei Boot 后端框架配套使用，支持快速搭建移动端应用。项目采用 uni-app 生态，支持一套代码多端运行，覆盖 iOS、Android、H5、微信小程序、支付宝小程序等主流平台。
 
 **在线文档**: [https://jiangbyte.github.io/hei-docs/hei-uniapp/](https://jiangbyte.github.io/hei-docs/hei-uniapp/)
 
